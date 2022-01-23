@@ -1,5 +1,4 @@
 const { T } = require('../config/twit');
-const redis = require('../config/redis');
 const { getResponses, getTriggers } = require('./messages');
 const { getTimeNow, getRandomIntInclusive } = require('./utils');
 const { TweetModel } = require('../models/tweets');
