@@ -17,16 +17,14 @@ const tweetIt = async (tweet, date, hour) => {
             async (err, data, response) => {
                 if(err) {
                     console.log(`Error at ${getTimeNow()} - `, data);
-                    if (data.errors.code == 433) {
-                        await TweetModel.findOneAndUpdate(
-                            { tweet_id: tweet.tweet_id, tweet_id_str: tweet.tweet_id_str}, 
-                            { $set: { 
-                                sent_error: true, 
-                                sent_error_obj: data.errors, 
-                                sent_at: new Date() 
-                            }}
-                        );
-                    }
+                    await TweetModel.findOneAndUpdate(
+                        { tweet_id: tweet.tweet_id, tweet_id_str: tweet.tweet_id_str}, 
+                        { $set: { 
+                            sent_error: true, 
+                            sent_error_obj: data.errors, 
+                            sent_at: new Date() 
+                        }}
+                    );
                 } else {
                     await SentModel.updateOne(
                         { date, hour }, 
