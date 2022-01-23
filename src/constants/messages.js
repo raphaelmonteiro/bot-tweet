@@ -1,67 +1,7 @@
 module.exports = [
     { 
-        id: 31,
-        trigger: "#bbb + jade",
-        responses: [
-            {
-                start: '2022-01-20 00:00:00',
-                end: '2022-01-23 23:59:59',
-                responses: [
-                    {
-                        id: 101, 
-                        response: "tal qual um furacão"
-                    },
-                    {
-                        id: 102, 
-                        response: "🌪"
-                    },
-                ]
-            }
-        ]
-    },
-    { 
-        id: 32,
-        trigger: "#bbb22 + jade",
-        responses: [
-            {
-                start: '2022-01-20 00:00:00',
-                end: '2022-01-23 23:59:59',
-                responses: [
-                    {
-                        id: 103, 
-                        response: "tal qual um furacão 🌪"
-                    },
-                    {
-                        id: 104, 
-                        response: "🌪🌪🌪🌪🌪"
-                    },
-                ]
-            }
-        ]
-    },
-    { 
-        id: 33,
-        trigger: "#caldeirão",
-        responses: [
-            {
-                start: '2022-01-20 00:00:00',
-                end: '2022-01-23 23:59:59',
-                responses: [
-                    {
-                        id: 105, 
-                        response: "Hoje foi top com a @LauanaPrado e @rafaelportugal!!!"
-                    },
-                    {
-                        id: 106, 
-                        response: "Caldeirão é isso!!! @LauanaPrado e @rafaelportugal"
-                    },
-                ]
-            }
-        ]
-    },
-    { 
         id: 1,
-        trigger: "#edu + #rapha + #abacates + bot",
+        trigger: "#AlwaysGood + #Sweepstakes + #SBLVI + bot + test",
         responses: [
             {
                 start: '2022-01-20 00:00:00',
@@ -73,7 +13,7 @@ module.exports = [
                     },
                     {
                         id: 2, 
-                        response: "ouse of Goodness Kitchen! What do you get when you mix Drew Brees and addvocados? The perfect selfie and more chances at prizes. Check out the Living Room for a sneak a peek at our #SBLVI commercial 🏈! #AlwaysGood #Sweepstakes https://bit.ly/goodnesslivingroom"
+                        response: "What do you get when you mix Drew Brees and addvocados? The perfect selfie and more chances at prizes. Check out the Living Room for a sneak a peek at our #SBLVI commercial 🏈! #AlwaysGood #Sweepstakes https://bit.ly/goodnesslivingroom"
                     },
                 ]
             },
