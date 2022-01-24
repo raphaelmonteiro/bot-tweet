@@ -1,35 +1,5 @@
 module.exports = [
     { 
-        id: 1,
-        trigger: "#AlwaysGood + #Sweepstakes + #SBLVI + bot + test",
-        responses: [
-            {
-                start: '2022-01-20 00:00:00',
-                end: '2022-01-23 23:59:59',
-                responses: [
-                    {
-                        id: 1, 
-                        response: "Yum! 🤤 Next give your wardrobe some GLOW! 🥑 ✨Check out the House of Goodness closet for awesome outfits, accessories, and more chances to win $100K! #AlwaysGood #Sweepstakes #SBLVI https://bit.ly/goodnesscloset"
-                    },
-                    {
-                        id: 2, 
-                        response: "What do you get when you mix Drew Brees and addvocados? The perfect selfie and more chances at prizes. Check out the Living Room for a sneak a peek at our #SBLVI commercial 🏈! #AlwaysGood #Sweepstakes https://bit.ly/goodnesslivingroom"
-                    },
-                ]
-            },
-            {
-                start: '2022-02-02 00:00:00',
-                end: '2022-02-08 23:59:59',
-                responses: [
-                    {
-                        id: 3, 
-                        response: "Everything is better when you addvocados, including the internet. Now head over to our Twitter to check out the 7 Days of Goodness and help raise the Goodness Meter ⬆️ by tweeting #AlwaysGood. You’ll earn more chances at $100K! #Sweepstakes #SBLVI"
-                    },
-                ]
-            }
-        ]
-    },
-    { 
         id: 2,
         trigger: "#AlwaysGood + #Sweepstakes + #SBLVI + kitchen",
         responses: [
@@ -39,11 +9,11 @@ module.exports = [
                 responses: [
                     {
                         id: 4, 
-                        response: "Yum! 🤤 Next give your wardrobe some GLOW! 🥑 ✨Check out the House of Goodness closet for awesome outfits, accessories, and more chances to win $100K! #AlwaysGood #Sweepstakes #SBLVI https://bit.ly/goodnesscloset"
+                        response: "Yum! 🤤 Next give your wardrobe some GLOW! 🥑 ✨Check out the House of Goodness closet for awesome outfits, accessories, and more chances to win $100K! #AlwaysGood #Sweepstakes #SBLVI #Thx https://bit.ly/goodnesscloset"
                     },
                     {
                         id: 5, 
-                        response: "Thanks for visiting the House of Goodness Kitchen! What do you get when you mix Drew Brees and addvocados? The perfect selfie and more chances at prizes. Check out the Living Room for a sneak a peek at our #SBLVI commercial 🏈! #AlwaysGood #Sweepstakes https://bit.ly/goodnesslivingroom"
+                        response: "Thanks for visiting the House of Goodness Closet! What does Drew Brees + addvocados equal? The perfect selfie and more chances at prizes. Sneak a peek at our #SBLVI commercial 🏈 in the Living Room! #AlwaysGood #Sweepstakes #Thx https://bit.ly/goodnesslivingroom"
                     },
                 ]
             },
@@ -69,11 +39,11 @@ module.exports = [
                 responses: [
                     {
                         id: 7, 
-                        response: "You'd totally rock that Avo Glow gear from our House of Goodness Closet! The only thing your game day needs is delicious guac. 😋 So addvocados to your spread and be sure to RT for more chances at💲100K. #AlwaysGood #SBLVI #Sweepstakes #Addvocados https://bit.ly/goodnesskitchen"
+                        response: "You'd totally rock that Avo Glow gear from our House of Goodness Closet! The only thing your game day needs is guac. 😋 So addvocados to your spread and RT for more chances at💲100K. #AlwaysGood #SBLVI #Sweepstakes #Addvocados #Thx https://bit.ly/goodnesskitchen"
                     },
                     {
                         id: 8, 
-                        response: "Thanks for visiting the House of Goodness Closet! What do you get when you mix Drew Brees and addvocados? The perfect selfie and more chances at prizes. Check out the Living Room for a sneak a peek at our #SBLVI commercial 🏈! #AlwaysGood #Sweepstakes https://bit.ly/goodnesslivingroom"
+                        response: "Thanks for visiting the House of Goodness Closet! What does Drew Brees + addvocados equal? The perfect selfie and more chances at prizes. Sneak a peek at our #SBLVI commercial 🏈 in the Living Room! #AlwaysGood #Sweepstakes #Thx https://bit.ly/goodnesslivingroom"
                     },
                 ]
             },
@@ -99,11 +69,11 @@ module.exports = [
                 responses: [
                     {
                         id: 10, 
-                        response: "You'd totally rock that Avo Glow gear from our House of Goodness Closet! The only thing your game day needs is delicious guac. 😋 So addvocados to your spread and be sure to RT for more chances at💲100K. #AlwaysGood #SBLVI #Sweepstakes #Addvocados https://bit.ly/goodnesskitchen"
+                        response: "You'd totally rock that Avo Glow gear from our House of Goodness Closet! The only thing your game day needs is guac. 😋 So addvocados to your spread and RT for more chances at💲100K. #AlwaysGood #SBLVI #Sweepstakes #Addvocados #Thx https://bit.ly/goodnesskitchen"
                     },
                     {
                         id: 11, 
-                        response: "Thanks for visiting the House of Goodness Closet! What do you get when you mix Drew Brees and addvocados? The perfect selfie and more chances at prizes. Check out the Living Room for a sneak a peek at our #SBLVI commercial 🏈! #AlwaysGood #Sweepstakes https://bit.ly/goodnesslivingroom"
+                        response: "Thanks for visiting the House of Goodness Closet! What does Drew Brees + addvocados equal? The perfect selfie and more chances at prizes. Sneak a peek at our #SBLVI commercial 🏈 in the Living Room! #AlwaysGood #Sweepstakes #Thx https://bit.ly/goodnesslivingroom"
                     },
                 ]
             },
@@ -129,11 +99,11 @@ module.exports = [
                 responses: [
                     {
                         id: 13, 
-                        response: "You'd totally rock that Avo Glow gear from our House of Goodness Closet! The only thing your game day needs is delicious guac. 😋 So addvocados to your spread and be sure to RT for more chances at💲100K. #AlwaysGood #SBLVI #Sweepstakes #Addvocados https://bit.ly/goodnesskitchen"
+                        response: "You'd totally rock that Avo Glow gear from our House of Goodness Closet! The only thing your game day needs is guac. 😋 So addvocados to your spread and RT for more chances at💲100K. #AlwaysGood #SBLVI #Sweepstakes #Addvocados #Thx https://bit.ly/goodnesskitchen"
                     },
                     {
                         id: 14, 
-                        response: "Thanks for visiting the House of Goodness Closet! What do you get when you mix Drew Brees and addvocados? The perfect selfie and more chances at prizes. Check out the Living Room for a sneak a peek at our #SBLVI commercial 🏈! #AlwaysGood #Sweepstakes https://bit.ly/goodnesslivingroom"
+                        response: "Thanks for visiting the House of Goodness Closet! What does Drew Brees + addvocados equal? The perfect selfie and more chances at prizes. Sneak a peek at our #SBLVI commercial 🏈 in the Living Room! #AlwaysGood #Sweepstakes #Thx https://bit.ly/goodnesslivingroom"
                     },
                 ]
             },
@@ -159,11 +129,11 @@ module.exports = [
                 responses: [
                     {
                         id: 16, 
-                        response: "You'd totally rock that Avo Glow gear from our House of Goodness Closet! The only thing your game day needs is delicious guac. 😋 So addvocados to your spread and be sure to RT for more chances at💲100K. #AlwaysGood #SBLVI #Sweepstakes #Addvocados https://bit.ly/goodnesskitchen"
+                        response: "You'd totally rock that Avo Glow gear from our House of Goodness Closet! The only thing your game day needs is guac. 😋 So addvocados to your spread and RT for more chances at💲100K. #AlwaysGood #SBLVI #Sweepstakes #Addvocados #Thx https://bit.ly/goodnesskitchen"
                     },
                     {
                         id: 17, 
-                        response: "Thanks for visiting the House of Goodness Closet! What do you get when you mix Drew Brees and addvocados? The perfect selfie and more chances at prizes. Check out the Living Room for a sneak a peek at our #SBLVI commercial 🏈! #AlwaysGood #Sweepstakes https://bit.ly/goodnesslivingroom"
+                        response: "Thanks for visiting the House of Goodness Closet! What does Drew Brees + addvocados equal? The perfect selfie and more chances at prizes. Sneak a peek at our #SBLVI commercial 🏈 in the Living Room! #AlwaysGood #Sweepstakes #Thx https://bit.ly/goodnesslivingroom"
                     },
                 ]
             },
@@ -189,11 +159,11 @@ module.exports = [
                 responses: [
                     {
                         id: 19, 
-                        response: "You'd totally rock that Avo Glow gear from our House of Goodness Closet! The only thing your game day needs is delicious guac. 😋 So addvocados to your spread and be sure to RT for more chances at💲100K. #AlwaysGood #SBLVI #Sweepstakes #Addvocados https://bit.ly/goodnesskitchen"
+                        response: "You'd totally rock that Avo Glow gear from our House of Goodness Closet! The only thing your game day needs is guac. 😋 So addvocados to your spread and RT for more chances at💲100K. #AlwaysGood #SBLVI #Sweepstakes #Addvocados #Thx https://bit.ly/goodnesskitchen"
                     },
                     {
                         id: 20, 
-                        response: "Thanks for visiting the House of Goodness Closet! What do you get when you mix Drew Brees and addvocados? The perfect selfie and more chances at prizes. Check out the Living Room for a sneak a peek at our #SBLVI commercial 🏈! #AlwaysGood #Sweepstakes https://bit.ly/goodnesslivingroom"
+                        response: "Thanks for visiting the House of Goodness Closet! What does Drew Brees + addvocados equal? The perfect selfie and more chances at prizes. Sneak a peek at our #SBLVI commercial 🏈 in the Living Room! #AlwaysGood #Sweepstakes #Thx https://bit.ly/goodnesslivingroom"
                     },
                 ]
             },
@@ -218,12 +188,12 @@ module.exports = [
                 end: '2022-02-01 23:59:59',
                 responses: [
                     {
-                        id: 22, 
-                        response: "You'd totally rock that Avo Glow gear from our House of Goodness Closet! The only thing your game day needs is delicious guac. 😋 So addvocados to your spread and be sure to RT for more chances at💲100K. #AlwaysGood #SBLVI #Sweepstakes #Addvocados https://bit.ly/goodnesskitchen"
+                        id: 72, 
+                        response: "You'd totally rock that Avo Glow gear from our House of Goodness Closet! The only thing your game day needs is guac. 😋 So addvocados to your spread and RT for more chances at💲100K. #AlwaysGood #SBLVI #Sweepstakes #Addvocados #Thx https://bit.ly/goodnesskitchen"
                     },
                     {
-                        id: 23, 
-                        response: "Thanks for visiting the House of Goodness Closet! What do you get when you mix Drew Brees and addvocados? The perfect selfie and more chances at prizes. Check out the Living Room for a sneak a peek at our #SBLVI commercial 🏈! #AlwaysGood #Sweepstakes https://bit.ly/goodnesslivingroom"
+                        id: 73, 
+                        response: "Thanks for visiting the House of Goodness Closet! What does Drew Brees + addvocados equal? The perfect selfie and more chances at prizes. Sneak a peek at our #SBLVI commercial 🏈 in the Living Room! #AlwaysGood #Sweepstakes #Thx https://bit.ly/goodnesslivingroom"
                     },
                 ]
             },
@@ -232,7 +202,7 @@ module.exports = [
                 end: '2022-02-08 23:59:59',
                 responses: [
                     {
-                        id: 24, 
+                        id: 74, 
                         response: "Everything is better when you addvocados, including the internet. Now head over to our Twitter to check out the 7 Days of Goodness and help raise the Goodness Meter ⬆️ by tweeting #AlwaysGood. You’ll earn more chances at $100K! #Sweepstakes #SBLVI"
                     },
                 ]
@@ -249,11 +219,11 @@ module.exports = [
                 responses: [
                     {
                         id: 22, 
-                        response: "We see you like 🏈 and 🥑. Check out our game day recipes at the House of Goodness! Share them for more chances at $100K — then you can addvocados every day!  #AlwaysGood #SBLVI #Sweepstakes #Addvocados https://bit.ly/goodnesskitchen"
+                        response: "We see you like 🏈 and 🥑. Check out our game day recipes at the House of Goodness! Share them for more chances at $100K — then you can addvocados every day!  #AlwaysGood #SBLVI #Sweepstakes #Addvocados #Thx https://bit.ly/goodnesskitchen"
                     },
                     {
                         id: 23, 
-                        response: "You’re the MVP! Take a peek at the House of Goodness Closet for perfect ways to addvocados to your wardrobe. 🥑👕 Plus, you can RT for another chance at winning $100K! #AlwaysGood #Sweepstakes #SBLVI https://bit.ly/goodnesscloset"
+                        response: "You’re the MVP! Take a peek at the House of Goodness Closet for perfect ways to addvocados to your wardrobe. 🥑👕 Plus, you can RT for another chance at winning $100K! #AlwaysGood #Sweepstakes #SBLVI #Thx https://bit.ly/goodnesscloset"
                     },
                 ]
             },
@@ -279,49 +249,15 @@ module.exports = [
                 responses: [
                     {
                         id: 25, 
-                        response: "We see you like 🏈 and 🥑. Check out our game day recipes at the House of Goodness! Share them for more chances at $100K — then you can addvocados every day!  #AlwaysGood #SBLVI #Sweepstakes #Addvocados https://bit.ly/goodnesskitchen"
+                        response: "We see you like 🏈 and 🥑. Check out our game day recipes at the House of Goodness! Share them for more chances at $100K — then you can addvocados every day!  #AlwaysGood #SBLVI #Sweepstakes #Addvocados #Thx https://bit.ly/goodnesskitchen"
                     },
                     {
                         id: 26, 
-                        response: "Yum! 🤤 Next give your wardrobe some GLOW! 🥑 ✨Check out the House of Goodness closet for awesome outfits, accessories, and more chances to win $100K! #AlwaysGood #Sweepstakes #SBLVI https://bit.ly/goodnesscloset"
+                        response: "Yum! 🤤 Next give your wardrobe some GLOW! 🥑 ✨Check out the House of Goodness closet for awesome outfits, accessories, and more chances to win $100K! #AlwaysGood #Sweepstakes #SBLVI #Thx https://bit.ly/goodnesscloset"
                     },
                     {
                         id: 27, 
-                        response: "Thanks for checking out the House of Goodness Kitchen! Kick back with Drew Brees and take a selfie for the mems in the Living Room. Plus, sneak a peek at our #SBLVI commercial. RT this for another shot at 💲100K! #AlwaysGood #Sweepstakes https://bit.ly/goodnesslivingroom"
-                    },
-                ]
-            },
-            {
-                start: '2022-02-02 00:00:00',
-                end: '2022-02-08 23:59:59',
-                responses: [
-                    {
-                        id: 28, 
-                        response: "We see you like 🏈 and 🥑. Check out our 7 Days of Goodness on our Twitter as we prep for the Big Game! RT to help us addvocados to the internet and leave it better than we found it! ✨ (Plus, get more chances to win $100K!) #AlwaysGood #Sweepstakes #SBLVI"
-                    },
-                ]
-            }
-        ]
-    },
-    { 
-        id: 11,
-        trigger: "#AlwaysGood + #Sweepstakes + #SBLVI + guac the house",
-        responses: [
-            {
-                start: '2022-01-24 00:00:00',
-                end: '2022-02-01 23:59:59',
-                responses: [
-                    {
-                        id: 25, 
-                        response: "We see you like 🏈 and 🥑. Check out our game day recipes at the House of Goodness! Share them for more chances at $100K — then you can addvocados every day!  #AlwaysGood #SBLVI #Sweepstakes #Addvocados https://bit.ly/goodnesskitchen"
-                    },
-                    {
-                        id: 26, 
-                        response: "Yum! 🤤 Next give your wardrobe some GLOW! 🥑 ✨Check out the House of Goodness closet for awesome outfits, accessories, and more chances to win $100K! #AlwaysGood #Sweepstakes #SBLVI https://bit.ly/goodnesscloset"
-                    },
-                    {
-                        id: 27, 
-                        response: "Thanks for checking out the House of Goodness Kitchen! Kick back with Drew Brees and take a selfie for the mems in the Living Room. Plus, sneak a peek at our #SBLVI commercial. RT this for another shot at 💲100K! #AlwaysGood #Sweepstakes https://bit.ly/goodnesslivingroom"
+                        response: "Thanks for checking out the House of Goodness Kitchen! Kick back with Drew Brees and take a selfie in the Living Room. Plus, sneak a peek at our #SBLVI commercial. RT this for another shot at 💲100K! #AlwaysGood #Sweepstakes #Thx https://bit.ly/goodnesslivingroom"
                     },
                 ]
             },
